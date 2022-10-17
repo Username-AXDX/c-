@@ -2,6 +2,6 @@
 using namespace std;
 int main(){
    cout << "JEL";
-   int a;
-   
+   int a,b;
+
 }
