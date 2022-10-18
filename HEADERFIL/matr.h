@@ -9,7 +9,7 @@ public:
     matr();
     void input();
     void output();
-    
+    double det();
     ~matr();
 
  private:
